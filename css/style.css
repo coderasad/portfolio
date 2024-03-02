@@ -1,13 +1,4 @@
-﻿/*
-Template Name: Istanbul - Personal Portfolio
-Author: Celtano
-Author URI: http://themeforest.net/user/celtano
-Description: Istanbul - Personal Portfolio
-Version: 1.0
-*/
-
-
-/*------------------------------------------------------------------
+﻿/*------------------------------------------------------------------
 [Table of contents]
 	+ General
 		- Dark Body
@@ -1755,6 +1746,8 @@ body.light .personal-info ul h6 {
   display: block;
   position: relative;
   border-radius: 4px;
+  height: 100%;
+  object-fit: cover;
 }
 
 #portfolio-items li a {
