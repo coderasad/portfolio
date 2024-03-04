@@ -3008,3 +3008,7 @@ ul.social-intro li a:hover i {
 span.ar-text {
   font-size: 13px !important;
 }
+
+.is-hidden{
+  opacity : 0;
+}
