@@ -1236,9 +1236,11 @@ div.container.page-title {
 }
 
 .call-to-actions-home a:first-child {
-  margin-right: 25px;
+  /*margin-right: 25px;*/
 }
-
+.gap-4{
+ gap: 16px;
+}
 /* ABOUT
 ================================================== */
 
